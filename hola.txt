@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Hola
+=======
+que hay de nuevo amigos
+>>>>>>> 4f96942f12eeee8231d7df838a7b394e2ed600a9
